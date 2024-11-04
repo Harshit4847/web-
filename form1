@@ -1,0 +1,24 @@
+<html>
+<head>
+<title>creating forms</title>
+</head>
+<body>
+<forms>
+<label>first name:</label>
+<input type="text" minlenght="5" size="20"></input><br>
+<br>
+<label>last name:</label>
+<input type="text" size="20"></input><br>
+<br>
+<label>email:</label>&nbsp &nbsp &nbsp &nbsp
+<input type"text" size="20"><br>
+<br>
+<label>password</label> &nbsp &nbsp
+<input type"password" value="password" name=password id="password"><br>
+<br>
+<label>     </label> &nbsp &nbsp &nbsp &nbsp
+<input type="submit" name="submit"  value="login">
+
+</forms>
+</body>
+</html>
